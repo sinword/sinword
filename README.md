@@ -77,7 +77,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sinword/sinword/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sinword/sinword/main/dist/snake.svg" alt="Snake animation"/>
+
 
 ###
 
