@@ -79,15 +79,6 @@
 
 <img src="https://raw.githubusercontent.com/sinword/sinword/main/dist/snake.svg" alt="Snake animation"/>
 
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/yeet">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yeet&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
