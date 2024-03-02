@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Hsin-Yi Wang (Sam) and I'm a student, programmer, designer and HCI researcher from NTUST.</h2>
+<h2 align="left">Hi! My name is Hsin-Yi Wang (Sam) and I'm a student, programmer, designer and HCI researcher from National Taiwan University of Science and Technology.</h2>
 
 ###
 
